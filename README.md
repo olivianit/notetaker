@@ -13,4 +13,7 @@ To return to the landing page, click the 'Note Taker' button in the top left cor
  
  ## License 
  MIT
+ 
+ ![image](https://user-images.githubusercontent.com/119629083/236952607-061c1c1d-d11d-4f41-83df-ee0ce8935859.png)
+
 
